@@ -17,7 +17,7 @@
 
 ### Блок-схема
 
-(https://github.com/Avebanger/Lab4/blob/master/реакция.png)
+(https://github.com/Avebanger/Lab4/blob/master/Алхимия.png)
 
 ## 2. Реализация программы
 ```
